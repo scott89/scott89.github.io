@@ -54,6 +54,7 @@
 
 **Variational Inference**
 * [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+* [Tutorial on Variational Autoencoders](http://people.ee.duke.edu/~lcarin/Yunchen_nips_2016.pdf)
 * [Auto-Encoding Variational Bayes](http://arxiv.org/pdf/1312.6114v10.pdf)
 * [Variational Inference: A Review for Statisticians](http://arxiv.org/pdf/1601.00670.pdf)
 * [Morphing Faces](http://vdumoulin.github.io/morphing_faces/)
