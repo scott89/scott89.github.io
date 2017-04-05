@@ -82,7 +82,7 @@
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
 * [Reinforcement Learning Course](http://www.computervisiontalks.com/rl-course-by-david-silver-lecture-1-introduction-to-reinforcement-learning/)
 * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-* [Human-level control through deep reinforcement learning] (http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf)
+* [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/pdf/nature14236.pdf)
 * [Reinforcement Learning for Robust and Efficient Real-World Tracking](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5597280)
 * [Action-Conditional Video Prediction using Deep Networks in Atari Games](http://arxiv.org/pdf/1507.08750v1.pdf)
 * [Reinforcement Learning Ware House](http://reinforcementlearning.ai-depot.com/)
@@ -103,7 +103,7 @@
 * [Learning TensorFlow (non official)](http://learningtensorflow.com/)
 
 **New Stuff**
-* [Learning Transferable Features with Deep Adaptation Networks] (http://jmlr.org/proceedings/papers/v37/long15.pdf)
+* [Learning Transferable Features with Deep Adaptation Networks](http://jmlr.org/proceedings/papers/v37/long15.pdf)
 * [Grid Long Short-Term Memory](http://arxiv.org/pdf/1507.01526v1.pdf)
 * [Understanding Intra-Class Knowledge Inside CNN](http://arxiv.org/pdf/1507.02379v1.pdf)
 * [Feature Representation In Convolutional Neural Networks](http://arxiv.org/pdf/1507.02313v1.pdf)
