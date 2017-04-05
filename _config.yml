@@ -1,0 +1,8 @@
+title: Lijun Wang's Homepage
+description: You gonna hear me roar!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
