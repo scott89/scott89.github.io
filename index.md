@@ -79,6 +79,10 @@
 * [AN ENSEMBLE OF DEEP NEURAL NETWORKS FOR OBJECT TRACKING](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7025169)
 
 **Reinforcement Learning:**
+* [Andrej Karpathy's blog: Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+* [David Silver's course at UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Benjamin Van Roy's course at Standord](https://web.stanford.edu/class/msande338/index.html)
+* [Sergey Levine's course at UC Berkeley](http://rll.berkeley.edu/deeprlcourse/)
 * [Deep Reinforcement Learning Course](http://rll.berkeley.edu/deeprlcourse/)
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
 * [Reinforcement Learning Course](http://www.computervisiontalks.com/rl-course-by-david-silver-lecture-1-introduction-to-reinforcement-learning/)
