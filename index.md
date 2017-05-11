@@ -79,6 +79,7 @@
 * [AN ENSEMBLE OF DEEP NEURAL NETWORKS FOR OBJECT TRACKING](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7025169)
 
 **Reinforcement Learning:**
+* [Deep Reinforcement Learning Course](http://rll.berkeley.edu/deeprlcourse/)
 * [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
 * [Reinforcement Learning Course](http://www.computervisiontalks.com/rl-course-by-david-silver-lecture-1-introduction-to-reinforcement-learning/)
 * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
