@@ -50,7 +50,7 @@
 * [Generative Image Modeling Using Spatial LSTMs](http://arxiv.org/pdf/1506.03478v1.pdf)
 * [GMM: Generating Sequences With Recurrent Neural Networks](http://arxiv.org/pdf/1308.0850v5.pdf)
 * [[RNN code] opinion mining with deep recurrent nets](http://www.cs.cornell.edu/~oirsoy/drnt.htm)
-
+* [RNNs in Tensorflow, a Practical Guide and Undocumented Features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 
 **Variational Inference**
 * [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
